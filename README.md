@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 [![Twitter Badge](https://img.shields.io/badge/-@__smileisak-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/smileisak)](https://twitter.com/smileisak)
 
 - 🔭 I’m currently working at @edixos as Founder and Software Reliabilty Engineer.
+- I am also co-fouder of [WeTransform Solutions](https://wetransform.tn).
 - Long term consulting service with @Renault at their AITS (Aliance IT Group).
 - Author of [Nauticus](https://nauticus.edixos.com) a Kubernetes Controller to manage fully managed namespaces.
 - 👯 I’m looking to collaborate on @kubernetes ecosystem projects specially extending Kubernetes APIs using CRDs and Controllers/Operators.
